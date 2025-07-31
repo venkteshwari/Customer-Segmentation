@@ -22,7 +22,7 @@ The aim of this project is to:
 
 ##  Dataset Source
 
- **Source**: [(https://github.com/venkteshwari/Customer-Segmentation/tree/main/CustomerDataset)]  
+ **Source**: <a href='https://github.com/venkteshwari/Customer-Segmentation/tree/main/CustomerDataset' >Download</a>  
  **Files Used**:  
 - `customers_dataset.csv`
 - `orders_dataset.csv`
