@@ -22,7 +22,7 @@ The aim of this project is to:
 
 ##  Dataset Source
 
- **Source**: [Kaggle - Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+ **Source**: [(https://github.com/venkteshwari/Customer-Segmentation/tree/main/CustomerDataset)]  
  **Files Used**:  
 - `customers_dataset.csv`
 - `orders_dataset.csv`
