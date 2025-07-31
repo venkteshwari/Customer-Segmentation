@@ -63,7 +63,3 @@ Each query uses SQL operations like:
 - `FILTERING and ORDERING`
 
 ---
-
-
-GROUP BY payment_type;
-
